@@ -1,0 +1,19 @@
+{
+  "name": "common-html-include-loader",
+  "version": "1.0.0",
+  "description": "a wabpack loader for a page to include common html component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peade/common-html-include-loader.git"
+  },
+  "author": "peade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peade/common-html-include-loader/issues"
+  },
+  "homepage": "https://github.com/peade/common-html-include-loader#readme"
+}
